@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutonamingForRadioFallout4", "AutonamingForRadioFallout4\AutonamingForRadioFallout4.csproj", "{63567C16-024A-45C4-A5C4-AFB887BB4E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63567C16-024A-45C4-A5C4-AFB887BB4E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63567C16-024A-45C4-A5C4-AFB887BB4E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63567C16-024A-45C4-A5C4-AFB887BB4E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63567C16-024A-45C4-A5C4-AFB887BB4E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F299D119-8511-4402-8D04-5DCC29B01CDD}
+	EndGlobalSection
+EndGlobal
